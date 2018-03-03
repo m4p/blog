@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo">
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2018-02-22 17:08:25 +0100
+categories: jekyll update
+---
+</p>
+<script>
+var currentdate = new Date();
+document.getElementById('demo').innerHTML = '---<br>layout: post<br>title:  ""<br/>date:   '+currentdate.toISOString().slice(0, 10) + " " + currentdate.getHours() + ":" + currentdate.getMinutes() + ":" + currentdate.getSeconds()+' +0100<br>categories: <br>---'
+
+
+</script>
+
+</body>
+</html>
