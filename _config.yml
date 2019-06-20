@@ -4,7 +4,7 @@ permalink: :title:output_ext
 
 # Setup
 title:               map's blog
-tagline:             'writing into the void'
+tagline:             'reinventing the wheel, one corner at a time.'
 url:                 https://blog.map.wtf
 baseurl:             ''
 plugins:                [jekyll-paginate]
