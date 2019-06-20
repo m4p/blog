@@ -63,7 +63,7 @@ If you ignore that this means you either do a shit job or open yourself up to a 
 
 Even if the goal is only to support fresh ideas, the insistence on banning prototyping is a disservice to the quality of submissions and completely ignores the way the games industry works.
 
-I. don’t. get. it. Really.
+I. don’t. get. it.
 
 So yeah, thanks for reading and maybe even sharing my confusion…
 
